@@ -11,7 +11,15 @@
       "groups": {
         "Red String": "/proxy/api/imgur/chapter/gUcUe7S/"
       },
-      "last_updated": "1616368746"
+      "last_updated": "1623039137"
+    },
+     "2": {
+      "title": "Welcome",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/a9sMYUp/"
+      },
+      "last_updated": "1624334597"
     }
   }
 }
