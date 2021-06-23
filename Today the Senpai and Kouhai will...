@@ -1,15 +1,15 @@
 {
-  "title": "<Today, the Senpai and Kouhai will...>",
-  "description": "<A sweet JK yuri story. All Ages>",
-  "artist": "<Hyakucha @uu6eee>",
-  "author": "<manga author>",
-  "cover": "<https://i.pximg.net/c/782x410_80_a2_g5/illust-series-cover-original/img/2020/06/20/10/04/14/GxF2BHOIFNMrrXAggC85aKPjnxxJjYtP.jpg>",
+  "title": "Today, the Senpai and Kouhai will...",
+  "description": "A sweet JK yuri story. All Ages",
+  "artist": "Hyakucha @uu6eee",
+  "author": "@uu6eee",
+  "cover": "https://i.pximg.net/c/782x410_80_a2_g5/illust-series-cover-original/img/2020/06/20/10/04/14/GxF2BHOIFNMrrXAggC85aKPjnxxJjYtP.jpg",
   "chapters": {
     "<Chapter 1>": {
-      "title": "<The First Day>",
-      "volume": "<1>",
+      "title": "The First Day",
+      "volume": "1",
       "groups": {
-        "<Red String>": "/proxy/api/imgur/chapter/<gUcUe7S>/"
+        "<Red String>": "/proxy/api/imgur/chapter/gUcUe7S/"
       },
       "last_updated": "1616368746"
     }
