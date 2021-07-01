@@ -1,6 +1,6 @@
 {
   "title": "Today, the Senpai and Kouhai will...",
-  "description": "A sweet JK yuri story. All Ages",
+  "description": "A sweet JK yuri story. All Ages. Artist: Hyakucha @uu6eee",
   "artist": "Hyakucha @uu6eee",
   "author": "@uu6eee",
   "cover": "https://i.imgur.com/pJ1nA8u.jpg",
@@ -20,6 +20,14 @@
         "Red String": "/proxy/api/imgur/chapter/a9sMYUp/"
       },
       "last_updated": "1624334597"
+    },
+     "3": {
+      "title": "Whimsy and Soliloquy",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/Q59ROlh/"
+      },
+      "last_updated": "1625143845"
     }
   }
 }
