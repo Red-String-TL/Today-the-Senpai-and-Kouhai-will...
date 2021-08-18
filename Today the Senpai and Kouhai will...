@@ -36,7 +36,14 @@
         "Red String": "/proxy/api/imgur/chapter/jA6SyGN/"
       },
       "last_updated": "1627962522"
-
+},
+     "5": {
+      "title": "Cherry Blossoms and Names",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/x2zO9lo/"
+      },
+      "last_updated": "1629285586"
     }
   }
 }
